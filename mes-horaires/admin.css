@@ -1,0 +1,61 @@
+#meshoraires form{
+	width: 30%;
+	display: inline-block;
+	border: 1px solid black;
+	padding: 1rem;
+	vertical-align: top;
+}
+
+#meshoraires form h2{
+	width: 30%;
+	display: inline-block;
+}
+
+#meshoraires form ul{
+	margin: 0;
+}
+
+#meshoraires form li{
+	background-color: #C8C8C8;
+	margin-bottom: 1rem;
+	padding: 0.5rem;
+}
+#meshoraires form li p{
+	display: inline-block;
+	width: 40%;
+	color: black;
+}
+#meshoraires form li h3{
+	text-transform: uppercase;
+	color: black;
+	margin: 0.4rem;
+	margin-left: 0;
+	margin-right: 1rem;
+	display: inline-block;
+	width: 50%;
+
+}
+
+#meshoraires form .time{
+	width: 50px;
+}
+
+#meshoraires form button{
+	cursor: pointer;
+}
+#meshoraires input[type="submit"]{
+	cursor: pointer;
+}
+
+#meshoraires .horaires_new_day{
+	display: none;
+	position: absolute;
+	left: 0%;
+	background-color: rgba(50, 50, 50, 0.9);
+	width: 88%;
+	padding: 5rem;
+	text-align: center;
+	top: 100px;
+}
+
+
